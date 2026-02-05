@@ -2,8 +2,8 @@
 
 ## TRIFOLIAR
 
-![Imagen Trifoliar](trifoliar.jpg)
+![Imagen Trifoliar](trifoliar.jpeg)
 
 ## MANUAL
 
-![Imagen Trifoliar](manuales.jpg)
+![Imagen Trifoliar](manuales.jpeg)
